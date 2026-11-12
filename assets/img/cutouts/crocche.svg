@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="1200" height="1200" role="img" aria-label="crocche">
+<g > <rect fill="#EFA92E" x="42" y="70" width="116" height="60" rx="30"/> <path fill="#C97F18" d="M42 100h116v0c0 17-13 30-30 30H72c-17 0-30-13-30-30z"/> <g fill="#8A5A1B"><circle cx="66" cy="88" r="4"/><circle cx="96" cy="112" r="4"/><circle cx="130" cy="86" r="4"/><circle cx="146" cy="112" r="4"/></g> <path fill="#C6FF3D" d="M88 92c6-4 12-4 16 0-6 6-12 6-16 0z"/> <rect fill="none" stroke="#151515" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" x="42" y="70" width="116" height="60" rx="30"/> </g>
+</svg>
